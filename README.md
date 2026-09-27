@@ -1,5 +1,8 @@
 # Communicate using Markdown
 
+> [!NOTE]
+> **Archived GitHub Skills coursework.** This completed learning exercise is kept for history and is not part of the active portfolio.
+
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
 Hey Cod4Nitish!
