@@ -14,6 +14,29 @@
 - Using Markdown as a readable collaboration format for issues, pull requests, and project documentation.
 - Completing a self-paced GitHub Skills workflow.
 
+## Course workflow
+
+~~~mermaid
+flowchart LR
+    A[Start exercise] --> B[Add headings]
+    B --> C[Make a task list]
+    C --> D[Add a code example]
+    D --> E[Add an image]
+    E --> F[Open and merge a pull request]
+~~~
+
+## Preserved course material
+
+| Checkpoint | Repository evidence |
+| --- | --- |
+| Headings | .github/steps/1-add-headings.md |
+| Task lists | .github/steps/2-make-a-task-list.md |
+| Code blocks | .github/steps/3-add-a-code-example.md |
+| Images | .github/steps/4-add-an-image.md |
+| Collaboration | .github/steps/5-merge-your-pull-request.md and matching Actions workflows |
+
+The course is a GitHub Skills template, not an original product. It is preserved because the guided steps and workflow files make the learning record reviewable.
+
 The original course material is preserved below so the completed exercise remains reviewable.
 
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
