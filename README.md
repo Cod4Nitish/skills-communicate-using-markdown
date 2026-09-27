@@ -3,6 +3,14 @@
 > [!NOTE]
 > **Archived GitHub Skills coursework.** This completed learning exercise is kept for history and is not part of the active portfolio.
 
+## What this exercise demonstrates
+
+- Structuring a repository document with headings, lists, links, images, and callouts.
+- Using Markdown as a readable collaboration format for issues, pull requests, and project documentation.
+- Completing a self-paced GitHub Skills workflow.
+
+The original course material is preserved below so the completed exercise remains reviewable.
+
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
 Hey Cod4Nitish!
